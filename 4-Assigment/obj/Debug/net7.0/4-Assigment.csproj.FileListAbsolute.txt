@@ -1,0 +1,17 @@
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.AssemblyInfoInputs.cache
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.AssemblyInfo.cs
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.csproj.CoreCompileInputs.cache
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\4-Assigment.exe
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\4-Assigment.deps.json
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\4-Assigment.runtimeconfig.json
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\4-Assigment.dll
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\4-Assigment.pdb
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.dll
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\refint\4-Assigment.dll
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.pdb
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.genruntimeconfig.cache
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\ref\4-Assigment.dll
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.csproj.AssemblyReference.cache
+C:\Skolan\C-Sharp\Repetion\Repetion_02\4-Assigment\4-Assigment\obj\Debug\net7.0\4-Assigment.csproj.CopyComplete
